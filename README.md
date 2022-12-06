@@ -18,24 +18,21 @@
 &nbsp;
   </span>
   
- [![HTML][HTML5]][HTML5-url]
-[![CSS][CSS3]][CSS-url]
-[![Bootstrap][Bootstrap.com]][Bootstrap-url]
-<br>
-<br>
-[![JS][JavaScript]][JS-url]
-[![React][React.js]][React-url]
-[![Redux][Redux.js.org]][Redux-url]
-<br>
-<br>
-[![Python][Python.org]][Python-url]
-[![Django][Django.com]][Django-url]
-[![SQLite][SQLite.org]][SQLite-url]
-
 <div align="right">
   <a href="https://github.com/Ar1kol">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar1kol&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+[![HTML][HTML5]][HTML5-url]
+[![CSS][CSS3]][CSS-url]
+[![Bootstrap][Bootstrap.com]][Bootstrap-url]
+[![JS][JavaScript]][JS-url]
+[![React][React.js]][React-url]
+[![Redux][Redux.js.org]][Redux-url]
+[![Python][Python.org]][Python-url]
+[![Django][Django.com]][Django-url]
+[![SQLite][SQLite.org]][SQLite-url]
+
+
   
   
   
