@@ -18,11 +18,10 @@
 &nbsp;
   </span>
   
-<div align="right">
-  <a href="https://github.com/Ar1kol">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar1kol&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-[![HTML][HTML5]][HTML5-url]
+
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3 logo"/> </a>
+
+<!-- [![HTML][HTML5]][HTML5-url]
 [![CSS][CSS3]][CSS-url]
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 [![JS][JavaScript]][JS-url]
@@ -30,13 +29,14 @@
 [![Redux][Redux.js.org]][Redux-url]
 [![Python][Python.org]][Python-url]
 [![Django][Django.com]][Django-url]
-[![SQLite][SQLite.org]][SQLite-url]
+[![SQLite][SQLite.org]][SQLite-url] -->
 
 
   
   
   
-  
+<a href="https://github.com/Ar1kol">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar1kol&layout=compact&langs_count=7&theme=dracula" align="right"/>
   
   
   
