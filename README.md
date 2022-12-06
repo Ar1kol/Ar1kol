@@ -18,8 +18,12 @@
 &nbsp;
   </span>
   
-
+## 🛠  Technologies and tools
+<a href="https://github.com/Ar1kol">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar1kol&layout=compact&langs_count=7&theme=dracula" align="right"/>
+[<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 logo" height="25"/> </a>]()&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3 logo"/> </a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="css3 logo"/> </a>
 
 <!-- [![HTML][HTML5]][HTML5-url]
 [![CSS][CSS3]][CSS-url]
@@ -35,8 +39,7 @@
   
   
   
-<a href="https://github.com/Ar1kol">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar1kol&layout=compact&langs_count=7&theme=dracula" align="right"/>
+
   
   
   
