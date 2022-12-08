@@ -1,6 +1,6 @@
 
 <h3 align="center">
-  <img src="hi.gif"/>  width="800px"/> 
+  <img src="hi.gif" width="800px"/> 
 </h3>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
