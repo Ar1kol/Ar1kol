@@ -3,7 +3,7 @@
   <img src="hi.gif" width="600px"/> 
 </h4>
 
-# 👩🏻‍💻 Full Stack Developer  
+# 👨‍💻 Full Stack Developer  
 
 <a href="https://www.linkedin.com/in/arkadiy-kolomiets" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" margin="100px" height="35" />
