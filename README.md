@@ -1,6 +1,7 @@
 
-<img src="hi.gif" align="center"/> 
-
+<h3 align="center">
+  <img src="hi.gif"/>  width="800px"/> 
+</h3>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
