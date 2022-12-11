@@ -23,7 +23,7 @@
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask logo"/> </a>&nbsp;
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 logo"/> </a>&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3 logo"/> </a>&nbsp;
-<a href="[https://www.typescriptlang.org/](https://sass-lang.com/)" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass logo"/> </a>&nbsp;
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass logo"/> </a>&nbsp;
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript logo"/> </a>&nbsp;
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="typescript logo" alt="node.js logo"/> </a>&nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript logo"/> </a>&nbsp;
@@ -33,7 +33,7 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="mongodb logo"/> </a>&nbsp;
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="postgresql logo"/> </a>&nbsp;
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white" alt="Microsoft SQL Server logo"/> </a>&nbsp;
-<a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="Microsoft SQL Server logo"/> </a>&nbsp;
+<a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/> </a>&nbsp;
 
 ## 📖 I'm currently learning / improving
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest logo"/> </a>&nbsp;
