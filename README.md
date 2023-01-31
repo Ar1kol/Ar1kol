@@ -17,7 +17,7 @@
 ## 🛠 Technologies and tools
 <a href="https://github.com/Ar1kol">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ar1kol&show_icons=true&theme=midnight-purple" align="right"/>
+<!-- <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ar1kol&show_icons=true&theme=midnight-purple" align="right"/> -->
 
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python logo"/> </a>&nbsp;
