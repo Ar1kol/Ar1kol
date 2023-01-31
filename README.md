@@ -17,8 +17,8 @@
 ## 🛠 Technologies and tools
 <a href="https://github.com/Ar1kol">
 
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ar1kol" align="right"/> -->
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar1kol&layout=compact&langs_count=7&theme=midnight-purple" align="right"/> -->
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ar1kol&show_icons=true&theme=midnight-purple" align="right"/>
+
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python logo"/> </a>&nbsp;
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django logo"/> </a>&nbsp;
